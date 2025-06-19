@@ -20,5 +20,24 @@ The dataset is in `diabetes.xls` format and includes features like:
 
 Install the required libraries with:
 
-```bash
 pip install pandas matplotlib scikit-learn xlrd==1.2.0
+
+🚗 Task 2: Car Price & EMI Predictor
+
+This project is part of my Data Science internship. It predicts car prices using machine learning and calculates the EMI (Equated Monthly Installment) based on the predicted price.
+
+## 🔧 Tools Used
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Google Colab
+
+## 📊 Features
+- Car price prediction
+- EMI calculation
+- Accuracy score & confusion matrix
+- Bar chart visualization
+
+## 📁 File
+- `intern_pe_Data_Science_Task_2.ipynb`
+
+## 🙋‍♂️ Intern: GOPIKA SHREE A.S.
+
