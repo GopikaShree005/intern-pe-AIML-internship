@@ -39,5 +39,11 @@ This project is part of my Data Science internship. It predicts car prices using
 ## 📁 File
 - `intern_pe_Data_Science_Task_2.ipynb`
 
+  # IPL Winning Team Analysis TASK 3
+
+This project analyzes IPL match data to explore team performance based on total runs scored.  
+Visualizations using Matplotlib and Seaborn help identify top-performing batting teams.
+
+
 ## 🙋‍♂️ Intern: GOPIKA SHREE A.S.
 
