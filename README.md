@@ -44,6 +44,37 @@ This project is part of my Data Science internship. It predicts car prices using
 This project analyzes IPL match data to explore team performance based on total runs scored.  
 Visualizations using Matplotlib and Seaborn help identify top-performing batting teams.
 
+AI/ML Internship Assignment – Task 4
+This repository contains the Jupyter Notebook for Task 4 of the AI/ML Internship assignment. The notebook includes implementation of three different machine learning tasks.
+
+📄 File Included
+intern_pe_AI_ML_assignment_and_TASK_4.ipynb: Jupyter Notebook covering all three tasks listed below.
+
+✅ Tasks Covered
+Breast Cancer Prediction
+
+A machine learning model to predict whether a tumor is benign or malignant using classification techniques.
+
+Movie Rating Prediction
+
+A regression-based model to predict movie ratings based on input features.
+
+Rule-Based Chatbot
+
+A basic chatbot developed using if-else rules to simulate human-like conversation.
+
+🚀 How to Use
+Clone or download this repository.
+
+Open the notebook using Jupyter Notebook or Google Colab.
+
+Run each section one by one to explore or modify the tasks.
+
+🛠 Requirements
+Python 3.x
+
+Libraries used: pandas, numpy, scikit-learn, matplotlib
+
 
 ## 🙋‍♂️ Intern: GOPIKA SHREE A.S.
 
